@@ -49,5 +49,5 @@ Si encuentras errores, puedes abrir un Issue o modificar el código directamente
 
 ---
 
-Made with ⚡ by [Brashkie](https://github.com/Brashkie)  
-Lima, Perú – 2025
+Made with ⚡ by [Brashkie](https://github.com/Brashkie)
+Creator: Hepein Oficial - Lima, Perú – 2025
